@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andrey/Projects/c++/Lab_4/dataStructures.cpp
+
+/home/andrey/Projects/c++/Lab_4/main.cpp
+dataStructures.cpp
+/home/andrey/Projects/c++/Lab_4/dataStructures.cpp
+tasks.cpp
+/home/andrey/Projects/c++/Lab_4/tasks.cpp
+
+/home/andrey/Projects/c++/Lab_4/tasks.cpp
+iostream
+-
+fstream
+-
+string
+-
+sstream
+-
+
